@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>py3_listener</name>
+  <version>1.0.0</version>
+  <description>The py3_listener package</description>
+
+  <maintainer email="cvh95@todo.com">Carlos</maintainer>
+  <license>MIT</license>
+  <author email="cvh95@todo.com">Carlos</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>rospy</depend>
+  <depend>std_msgs</depend>
+
+  <export>
+  </export>
+</package>

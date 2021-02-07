@@ -1,0 +1,6 @@
+# pyc files
+*.pyc
+
+# Pycache
+py3_talker/src/py3_talker/__pycache__/
+py3_listener/src/py3_listener/__pycache__/
